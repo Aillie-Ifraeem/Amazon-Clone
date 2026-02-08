@@ -3,7 +3,7 @@ A frontend-focused Amazon Clone built primarily with **JavaScript**, replicating
 
 Key Features
 
-### 🏠 Home Page
+Home Page
 - Amazon-style product listing
 - Products fetched dynamically from an external backend
 - Add products to cart
@@ -12,8 +12,7 @@ Key Features
 - Persistent cart state (using browser storage)
 
 ---
-
-### 🛍 Cart Functionality
+Cart Functionality
 - View all added products
 - Increase or decrease product quantity
 - Remove items from cart
@@ -22,9 +21,9 @@ Key Features
 
 ---
 
-### 💳 Checkout Page (Fully Functional UI Logic)
+Checkout Page (Fully Functional UI Logic)
 
-✔ **All checkout features are implemented and working**, except final order placement.
+**All checkout features are implemented and working**, except final order placement.
 Checkout Features:
 - Grouped items by delivery date
 - Product image, title, and price display
