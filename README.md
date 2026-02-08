@@ -1,5 +1,7 @@
-# Amazon-Clone
-A frontend-focused Amazon Clone built primarily with **JavaScript**, replicating real-world e-commerce behavior such as product listing, cart management, quantity updates, delivery options, and checkout flow.  This project focuses on **JavaScript logic, state handling, and UI interactions**, while product data is fetched from an external backend.  
+Amazon-Clone
+A frontend-focused Amazon Clone built primarily with "JavaScript", replicating real-world e-commerce behavior such as product listing, cart management, quantity updates, delivery options, and checkout flow.  This project focuses on "JavaScript logic, state handling, and UI interactions", while product data is fetched from an external backend.
+
+in this project i have used Git (Git is a free, open-source distributed version control system (VCS) used for tracking changes in computer files, most commonly source code during software development) and also used jasmine (Jasmine is a popular, open-source behavior-driven development (BDD) testing framework for JavaScript.)
 
 Key Features
 
@@ -23,7 +25,7 @@ Cart Functionality
 
 Checkout Page (Fully Functional UI Logic)
 
-**All checkout features are implemented and working**, except final order placement.
+"All checkout features are implemented and working", except final order placement.
 Checkout Features:
 - Grouped items by delivery date
 - Product image, title, and price display
@@ -40,7 +42,7 @@ Checkout Features:
   - Final order total
 - Real-time price updates on any change
 
-**Place Order Button**
+"Place Order Button"
 - Redirects to Orders page
 - Orders page currently shows **mock (fake) data** for demonstration purposes
 
@@ -65,17 +67,17 @@ What This Project Teaches
 ---
 Tech Stack
 
-**Frontend**
+"Frontend"
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
-**Concepts Used**
+"Concepts Used"
 - Modules
 - Event handling
 - LocalStorage
 - Async data fetching
 - Dynamic DOM rendering
 
-**Backend**
+"Backend"
 - External backend (used only as a data source)
